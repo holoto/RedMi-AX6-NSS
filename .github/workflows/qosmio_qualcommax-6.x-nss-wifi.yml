@@ -31,4 +31,4 @@ jobs:
       #默认源码
       OWRT_URL: https://github.com/qosmio/openwrt-ipq.git
       #REPO_BRANCH name
-      REPO_BRANCH: qualcommax-6.x-nss-wifi
+      REPO_BRANCH: 24.10-nss
